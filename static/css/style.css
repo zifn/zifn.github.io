@@ -10,6 +10,9 @@ body {
 h1 {
   text-align: center;
 }
+h2 {
+  margin-top: 50px
+}
 h1, h2 {
   font-family: Courier,serif;
 }
@@ -34,12 +37,4 @@ img {
   font-family: serif;
   margin-left: 20px;
   margin-right: 20px;
-}
-.date {
-  font-size:16px;
-  font-style: italic;
-  line-height: 1;
-}
-.experience {
-  margin-top: 50px;
 }
